@@ -1,0 +1,13 @@
+1. Created React project: spotify-clone
+2. Created Firebase project: spotify-clone
+3. Created Spotify account: Signup with FB
+4. Created an app in spotify: spotify-clone
+5. Added Redirect URL in spotify app: http://localhost:3000/
+6. Code Cleanup in basic files
+7. Created Login component
+8. Created authentication function and response token
+9. Created Player component
+9. Created DataLayer component
+10. Set Management State using setContext and reducer from React
+11. Created Sidebar component
+ 
