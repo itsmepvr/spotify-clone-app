@@ -5,3 +5,22 @@
   min-width: 230px;
   background-color: #040404;
 }
+
+.sidebar_logo {
+  margin-right: auto;
+  height: 40px;
+  object-fit: contain;
+  padding: 10px;
+}
+
+.sidebar_title {
+  padding: 5px;
+  margin-left: 10px;
+  font-size: 12px;
+}
+
+.sidebar > hr {
+  border: 1px solid #282828;
+  width: 90%;
+  margin: 10px auto;
+}
